@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import ResultList from "./ResultList";
-import Dropdown from "./DropDown";
 
 const SearchBar = () => {
   const areas = [
